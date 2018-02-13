@@ -691,6 +691,7 @@
 						TestTargetID = 13B07F861A680F5B00A75B9A;
 					};
 					13B07F861A680F5B00A75B9A = {
+						DevelopmentTeam = 285W24646W;
 						ProvisioningStyle = Manual;
 					};
 					2D02E47A1E0B4A5D006451C7 = {
@@ -1210,7 +1211,7 @@
 				CODE_SIGN_STYLE = Manual;
 				CURRENT_PROJECT_VERSION = 1;
 				DEAD_CODE_STRIPPING = NO;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = 285W24646W;
 				INFOPLIST_FILE = CleanReactNative/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -1220,7 +1221,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "v-koand.com.openid.boostnote";
 				PRODUCT_NAME = CleanReactNative;
-				PROVISIONING_PROFILE_SPECIFIER = "";
+				PROVISIONING_PROFILE = "2bef1a0b-7a42-4760-9186-0c9f38b3be22";
+				PROVISIONING_PROFILE_SPECIFIER = "AppCenter test app Boostnote ReactNative";
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Debug;
@@ -1232,7 +1234,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Manual;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = 285W24646W;
 				INFOPLIST_FILE = CleanReactNative/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -1242,7 +1244,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "v-koand.com.openid.boostnote";
 				PRODUCT_NAME = CleanReactNative;
-				PROVISIONING_PROFILE_SPECIFIER = "";
+				PROVISIONING_PROFILE = "2bef1a0b-7a42-4760-9186-0c9f38b3be22";
+				PROVISIONING_PROFILE_SPECIFIER = "AppCenter test app Boostnote ReactNative";
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Release;
