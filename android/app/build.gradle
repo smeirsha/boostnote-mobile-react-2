@@ -64,6 +64,9 @@ import com.android.build.OutputFile
  *   extraPackagerArgs: []
  * ]
  */
+project.ext.react = [
+    nodeExecutableAndArgs: ["node", "--max_old_space_size=8192"]
+]
 
 apply from: "../../node_modules/react-native/react.gradle"
 apply from: "../../node_modules/react-native-code-push/android/codepush.gradle"
