@@ -1451,6 +1451,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				CODE_SIGN_STYLE = Manual;
 				CURRENT_PROJECT_VERSION = 1;
 				DEAD_CODE_STRIPPING = NO;
@@ -1471,8 +1472,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = meirav.boostnote;
 				PRODUCT_NAME = boostnotemobile;
-				PROVISIONING_PROFILE = "7f1b44a8-ad56-47da-a3c3-ee6f0301b982";
-				PROVISIONING_PROFILE_SPECIFIER = "Meirav Developer";
+				PROVISIONING_PROFILE = "741dc78c-f8de-4e9e-8727-96f6af7a5dab";
+				PROVISIONING_PROFILE_SPECIFIER = "Meirav Dist Prov";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -1483,6 +1484,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				CODE_SIGN_STYLE = Manual;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 5Z97G9NZQ6;
@@ -1502,8 +1504,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = meirav.boostnote;
 				PRODUCT_NAME = boostnotemobile;
-				PROVISIONING_PROFILE = "7f1b44a8-ad56-47da-a3c3-ee6f0301b982";
-				PROVISIONING_PROFILE_SPECIFIER = "Meirav Developer";
+				PROVISIONING_PROFILE = "741dc78c-f8de-4e9e-8727-96f6af7a5dab";
+				PROVISIONING_PROFILE_SPECIFIER = "Meirav Dist Prov";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 			};
