@@ -857,7 +857,7 @@
 						TestTargetID = 13B07F861A680F5B00A75B9A;
 					};
 					13B07F861A680F5B00A75B9A = {
-						DevelopmentTeam = 5Z97G9NZQ6;
+						DevelopmentTeam = 9KBH5RKYEW;
 						ProvisioningStyle = Manual;
 					};
 					2D02E47A1E0B4A5D006451C7 = {
@@ -1454,7 +1454,7 @@
 				CODE_SIGN_STYLE = Manual;
 				CURRENT_PROJECT_VERSION = 1;
 				DEAD_CODE_STRIPPING = NO;
-				DEVELOPMENT_TEAM = 5Z97G9NZQ6;
+				DEVELOPMENT_TEAM = 9KBH5RKYEW;
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(SRCROOT)/../node_modules/react-native-fetch-blob/ios/**",
@@ -1469,10 +1469,10 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = meirav.boostnote;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.microsoft.CleanReactNative-df";
 				PRODUCT_NAME = boostnotemobile;
-				PROVISIONING_PROFILE = "7f1b44a8-ad56-47da-a3c3-ee6f0301b982";
-				PROVISIONING_PROFILE_SPECIFIER = "Meirav Developer";
+        PROVISIONING_PROFILE = "7f1b44a8-ad56-47da-a3c3-ee6f0301b982";
+        PROVISIONING_PROFILE_SPECIFIER = "Meirav Developer";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -1485,7 +1485,7 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_STYLE = Manual;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 5Z97G9NZQ6;
+				DEVELOPMENT_TEAM = 9KBH5RKYEW;
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(SRCROOT)/../node_modules/react-native-fetch-blob/ios/**",
@@ -1500,10 +1500,10 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = meirav.boostnote;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.microsoft.CleanReactNative-df";
 				PRODUCT_NAME = boostnotemobile;
-				PROVISIONING_PROFILE = "7f1b44a8-ad56-47da-a3c3-ee6f0301b982";
-				PROVISIONING_PROFILE_SPECIFIER = "Meirav Developer";
+        PROVISIONING_PROFILE = "7f1b44a8-ad56-47da-a3c3-ee6f0301b982";
+        PROVISIONING_PROFILE_SPECIFIER = "Meirav Developer";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 			};
